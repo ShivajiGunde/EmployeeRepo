@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\logs20250704.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\logs20250704.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\serviceimpl\\employeeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\serviceimpl\\employeeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\employeeapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\employeeapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\microsoft\\openapi\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\microsoft\\openapi\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GundeShivaji\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\employeeapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\employeeapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\pagination\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\pagination\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\pagination\\pagedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\pagination\\pagedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\logs\\log20250703.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\logs\\log20250703.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\gundeshivaji\\source\\repos\\employeeapplication\\employeeapplication\\logs\\log20250704.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E633FCE1-5332-423A-88B4-2BB208EBA6DB}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\logs\\log20250704.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Nuget\\Config\\Microsoft.VisualStudio.FallbackLocation.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeApplication\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAmwLYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:58:05.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Program.cs",
+              "RelativeToolTip": "EmployeeApplication\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:58:20.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Serviceimpl\\EmployeeServiceImpl.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Serviceimpl\\EmployeeServiceImpl.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Serviceimpl\\EmployeeServiceImpl.cs",
+              "RelativeToolTip": "EmployeeApplication\\Serviceimpl\\EmployeeServiceImpl.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:16:03.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Address.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Address.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Address.cs",
+              "RelativeToolTip": "EmployeeApplication\\Address.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:21:47.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Employee.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Employee.cs",
+              "RelativeToolTip": "EmployeeApplication\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:29:29.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Microsoft\\OpenApi\\Models.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Microsoft\\OpenApi\\Models.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Microsoft\\OpenApi\\Models.cs",
+              "RelativeToolTip": "EmployeeApplication\\Microsoft\\OpenApi\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T13:08:34.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Department.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Department.cs",
+              "RelativeToolTip": "EmployeeApplication\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:11:58.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logs20250704.txt",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Logs20250704.txt",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Logs20250704.txt",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Logs20250704.txt",
+              "RelativeToolTip": "EmployeeApplication\\Logs20250704.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-07T05:48:21.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\appsettings.json",
+              "RelativeToolTip": "EmployeeApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T12:25:55.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\EmployeeApplication.csproj",
+              "RelativeDocumentMoniker": "EmployeeApplication\\EmployeeApplication.csproj",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\EmployeeApplication.csproj",
+              "RelativeToolTip": "EmployeeApplication\\EmployeeApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T10:59:53.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeApplication\\EmployeeDto.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:53:20.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\EmployeeUpdateDto.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\EmployeeUpdateDto.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\EmployeeUpdateDto.cs",
+              "RelativeToolTip": "EmployeeApplication\\EmployeeUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T13:37:51.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceCollection.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T13:17:24.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeApplication",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\EmployeeApplication.csproj",
+              "RelativeDocumentMoniker": "EmployeeApplication\\EmployeeApplication.csproj",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\EmployeeApplication.csproj",
+              "RelativeToolTip": "EmployeeApplication\\EmployeeApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T09:02:06.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Service\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Service\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Service\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeApplication\\Service\\IEmployeeService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:07:11.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PageDetails.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Pagination\\PageDetails.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Pagination\\PageDetails.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Pagination\\PageDetails.cs",
+              "RelativeToolTip": "EmployeeApplication\\Pagination\\PageDetails.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:26:52.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Pagination\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Pagination\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Pagination\\MappingProfile.cs",
+              "RelativeToolTip": "EmployeeApplication\\Pagination\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:42:08.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "log20250703.txt",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Logs\\log20250703.txt",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Logs\\log20250703.txt",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Logs\\log20250703.txt",
+              "RelativeToolTip": "EmployeeApplication\\Logs\\log20250703.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-09T09:33:26.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "log20250704.txt",
+              "DocumentMoniker": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Logs\\log20250704.txt",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Logs\\log20250704.txt",
+              "ToolTip": "C:\\Users\\GundeShivaji\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Logs\\log20250704.txt",
+              "RelativeToolTip": "EmployeeApplication\\Logs\\log20250704.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-09T09:33:27.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.VisualStudio.FallbackLocation.config",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Nuget\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Nuget\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+              "ToolTip": "C:\\Program Files (x86)\\Nuget\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Nuget\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-09T08:21:50.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

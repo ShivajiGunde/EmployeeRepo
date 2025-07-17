@@ -1,0 +1,21 @@
+2025-07-04 12:04:00.731 +05:30 [INF] Now listening on: https://localhost:7177
+2025-07-04 12:04:00.762 +05:30 [INF] Now listening on: http://localhost:5072
+2025-07-04 12:04:00.864 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-07-04 12:04:00.864 +05:30 [INF] Hosting environment: Development
+2025-07-04 12:04:00.864 +05:30 [INF] Content root path: C:\Users\GundeShivaji\source\repos\EmployeeApplication\EmployeeApplication
+2025-07-04 12:04:01.563 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7177/swagger/index.html - null null
+2025-07-04 12:04:01.976 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7177/swagger/index.html - 200 null text/html;charset=utf-8 424.6319ms
+2025-07-04 12:04:02.015 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7177/_framework/aspnetcore-browser-refresh.js - null null
+2025-07-04 12:04:02.029 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7177/_framework/aspnetcore-browser-refresh.js - 200 16523 application/javascript; charset=utf-8 14.1893ms
+2025-07-04 12:04:02.079 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7177/_vs/browserLink - null null
+2025-07-04 12:04:02.159 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7177/_vs/browserLink - 200 null text/javascript; charset=UTF-8 80.2777ms
+2025-07-04 12:04:02.493 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7177/swagger/v1/swagger.json - null null
+2025-07-04 12:04:02.517 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7177/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 24.0951ms
+2025-07-04 12:04:25.656 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7177/Employee/181 - null null
+2025-07-04 12:04:25.687 +05:30 [INF] Executing endpoint 'EmployeeApplication.Controllers.EmployeeController.GetEmployeeById (EmployeeApplication)'
+2025-07-04 12:04:25.717 +05:30 [INF] Route matched with {action = "GetEmployeeById", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetEmployeeById(Int32) on controller EmployeeApplication.Controllers.EmployeeController (EmployeeApplication).
+2025-07-04 12:04:26.078 +05:30 [INF] Employee Fetched sucessfully
+2025-07-04 12:04:26.087 +05:30 [INF] Executing OkObjectResult, writing value of type 'EmployeeApplication.Employee'.
+2025-07-04 12:04:26.104 +05:30 [INF] Executed action EmployeeApplication.Controllers.EmployeeController.GetEmployeeById (EmployeeApplication) in 383.7872ms
+2025-07-04 12:04:26.105 +05:30 [INF] Executed endpoint 'EmployeeApplication.Controllers.EmployeeController.GetEmployeeById (EmployeeApplication)'
+2025-07-04 12:04:26.105 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7177/Employee/181 - 200 null application/json; charset=utf-8 449.3699ms
