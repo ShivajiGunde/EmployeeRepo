@@ -422,7 +422,7 @@ namespace EmployeeApplication.Serviceimpl
 
                  }
             catch (Exception e) {
-                throw new Exception(" Employees not Updated" + e.Message);
+                throw new Exception(" Employee not Updated" + e.Message);
             }
          }
 
