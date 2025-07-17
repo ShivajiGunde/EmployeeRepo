@@ -342,7 +342,7 @@ namespace EmployeeApplication.Serviceimpl
                 return deletedEmployee;
             }
             catch (Exception e) {
-                throw new Exception("Empployee not deleted"+e.Message);
+                throw new Exception("Empploye not deleted"+e.Message);
             }
         }
 
