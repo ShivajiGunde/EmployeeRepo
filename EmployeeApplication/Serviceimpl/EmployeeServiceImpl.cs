@@ -485,7 +485,7 @@ namespace EmployeeApplication.Serviceimpl
 
                 if (_cache.TryGetValue(cacheKey, out Employee cachedEmployee))
                 {
-                    Console.WriteLine("Employee retrieved from cache.");
+                    Console.WriteLine("Employees retrieved from cache.");
                     return cachedEmployee;
                 }
                 else
